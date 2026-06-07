@@ -1,0 +1,3 @@
+# Ignore built game folder and release packages
+RouGe-Windows/
+*.zip
